@@ -150,7 +150,7 @@ void Open()
       myLcd.clear();
       myLcd.print("Enter Password");
       digitalWrite(redLED, LOW);    // Turn off red LED
-      isDoorOpen = false;                  // Set door status to closed
+      isDoorOpen = false;      // Set door status to closed
     }
     delay(1000);
     myLcd.clear();
