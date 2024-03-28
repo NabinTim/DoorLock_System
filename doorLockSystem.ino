@@ -8,8 +8,8 @@
 #define Password_Length 5
 Servo myDoorServo;
 LiquidCrystal myLcd(A0, A1, A2, A3, A4, A5);
-int redLED = 13;   // Pin for the red LED
-int greenLED = 12; // Pin for the green LED
+int redLED = 13;   
+int greenLED = 12;
 int pos = 0;
 
 char enteredPassword[Password_Length]; // Renamed Data to enteredPassword
