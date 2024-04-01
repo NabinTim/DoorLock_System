@@ -1,6 +1,7 @@
 //Min Prasad Timalsina
 //Date : 2024 January 21
 //Description of final project : Door lock system using arduino
+//Final project for the semester 1 for arduino
 
 #include <Keypad.h>
 #include <LiquidCrystal.h>
